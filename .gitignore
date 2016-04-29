@@ -1,5 +1,5 @@
 */Debug*
-*.settings/*
+*/.settings*
 
 # Compiled Object files
 *.slo
