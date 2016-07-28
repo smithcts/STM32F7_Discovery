@@ -42,6 +42,14 @@ PWM::PWM(motor_id_t id)
 		sConfig.OCIdleState  = TIM_OCIDLESTATE_RESET;
 
 		break;
+	case Vertical_Motor:
+
+		break;
+	case Claw_Motor:
+
+		break;
+	default:
+		break;
 	}
 }
 
